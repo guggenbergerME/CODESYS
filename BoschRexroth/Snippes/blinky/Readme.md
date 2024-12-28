@@ -18,7 +18,7 @@ Ausgang := timer.ET < timer.PT/2;
 Implements a timer with a turn-on delay
 ```
 (* Example declaration *)
-TONInst : TON ;
+TONinstanzNAME : TON ;
 
 (* Example in ST *)
 TONInst(IN := VarBOOL1, PT:= T#5s);
