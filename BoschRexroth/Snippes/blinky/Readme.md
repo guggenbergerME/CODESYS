@@ -21,8 +21,8 @@ Implements a timer with a turn-on delay
 TONinstanzNAME : TON ;
 
 (* Example in ST *)
-TONInst(IN := VarBOOL1, PT:= T#5s);
-VarBOOL2 := TONInst.Q;
+TONinstanzNAME(IN := VarBOOL1, PT:= T#5s);
+VarBOOL2 := TONinstanzNAME.Q;
 ```
 Kürzel
 ```
