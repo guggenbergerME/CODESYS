@@ -1,5 +1,7 @@
 # blinky
 
+Einen Ausgang mit einer bestimmten Frequenz blinken lassen.
+
 ```
 VAR
 timer : TON;
@@ -10,3 +12,4 @@ timer(PT:=t,IN:=not timer.Q);
 
 Ausgang := timer.ET < timer.PT/2;
 ```
+
