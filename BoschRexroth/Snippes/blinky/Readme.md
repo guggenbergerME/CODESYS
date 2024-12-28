@@ -1,9 +1,12 @@
 # blinky
 
 ```
-VAR timer : TON;
+VAR
+timer : TON;
 t : time := T#200ms;
 END_VAR
 
-timer(PT:=t,IN:=not timer.Q);Ausgang := timer.ET < timer.PT/2;
+timer(PT:=t,IN:=not timer.Q);
+
+Ausgang := timer.ET < timer.PT/2;
 ```
