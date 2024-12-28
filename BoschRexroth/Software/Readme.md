@@ -1,7 +1,7 @@
 # BoschRexroth Software
 
 ## Installation WORKS
-Die aktuelle Version kann unter myRexroth im Bereich ```myRexroth | Collaboration | Collaboration Rooms```
+Die aktuelle Version kann unter myRexroth im Bereich ```myRexroth | Collaboration | Collaboration Rooms``` heruntergeladen werden. Zum Betrieb wird ein Windows 11 benötigt.
 
 ## Webportale & Download
 + [Website Automatition](https://community.boschrexroth.com/home)
